@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.3
 Name:		texlive-physics
-Version:	1.30
-Release:	9
+Version:	1.3
+Release:	1
 Summary:	Macros supporting the Mathematics of Physics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/physics
