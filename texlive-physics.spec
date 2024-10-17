@@ -3,7 +3,7 @@ Version:	28590
 Release:	2
 Summary:	Macros supporting the Mathematics of Physics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/physics
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/physics
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/physics.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/physics.doc.r%{version}.tar.xz
