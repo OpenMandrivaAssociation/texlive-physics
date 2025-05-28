@@ -1,6 +1,6 @@
 Name:		texlive-physics
-Version:	28590
-Release:	2
+Version:	74247
+Release:	1
 Summary:	Macros supporting the Mathematics of Physics
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/physics
